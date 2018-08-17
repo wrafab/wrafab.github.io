@@ -16,7 +16,7 @@ nav {
     height:150px;
     width:150px;
     float:left;
-    padding:49px;	      
+    padding:0px;	      
 }
 section {
     width:320px;
@@ -44,24 +44,36 @@ a {font-family:verdana;font-size:}100%;}
 </style>
 </head>
 <body>
+    <SCRIPT>
+function passWord() {
+var testV = 1;
+var pass1 = prompt('Please Enter The Password',' ');
+while (testV < 3) {
+if (!pass1) 
+history.go(-1);
+if (pass1.toLowerCase() == "gerber") {
+alert('You Got it Right!');
+window.open('https://fab.wra.net/home');
+break;
+} 
+testV+=1;
+var pass1 = 
+prompt('Access Denied - Password Incorrect, Please Try Again.','Password');
+}
+if (pass1.toLowerCase()!="password" & testV ==3) 
+history.go(-1);
+return " ";
+} 
+</SCRIPT>
+<CENTER>
+<FORM>
+<input type="button" value="Enter Protected Area" onClick="passWord()">
+</FORM>
+</CENTER>
 <header>
 <h1>Digital Fabrication and Engineering</h1>
 </header>
 
-<nav>
-<p>
-<a href="course.html">Course Overview</a>
-<br>
-<a href="schedule18s.html">Schedule</a>
-<br>
-<a href="students18.html">Students</a>
-<br>
-<a href="resources.html">Resources</a>
-<br>
-<a href="final.html">Final Projects</a>
-<br>
-<a href="archive.html">Class Archive</a>
-<br>
 </p>
 
 
