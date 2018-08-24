@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<title>WRA FAB </title>
+<head>
+<style>
+body { 
+background-color:white;}
+h1 {font-family:helvetica; font-size:200%;text-align:center;}
+h2 {font-family:helvetica; font-size:150%;text-align:left;}
+h3 {font-family:helvetica; font-size:125%;text-align:center;}
+p {font-family:helvetica;font-size:}100%;}
+a {font-family:helvetica;font-size:}100%;}
+</style>
+</head>
+<body>
+<header>
+<h1>2018 Fall Students</h1>
+</header>
+
+<nav>
+  <p> 
+  <h2>Students</h2>
+  </h2></p>
+<p>
+<ul>
+
+<li><a href="https://fab.wra.net/bingamans/">S Bingaman</a></li>
+<li><a href="https://fab.wra.net/Cheukh/">I Cheuk</a></li>
+<li><a href="https://fab.wra.net/cheungk/">K Cheung</a></li>
+<li><a href="https://fab.wra.net/fraserl/">L Fraser</a></li>
+<li><a href="https://fab.wra.net/hwangg/">G Hwang </a></li>
+<li><a href="https://fab.wra.net/issam/">M Issa</a></li>
+<li><a href="https://fab.wra.net/oneillb/">B O'Neill</a></li>
+<li><a href="https://fab.wra.net/reddyk/">K Reddy</a></li>
+<li><a href="https://fab.wra.net/shaheenr/">R Shaheen</a></li>
+<li><a href="https://fab.wra.net/tengs/">P Teng<a></li>
+<li><a href="https://fab.wra.net/voq/">Q Vo</a></li>
+<li><a href="https://fab.wra.net/woodt/">T Wood</a></li>
+
+<br>
+
+<li><a href="https://fab.wra.net/bakeri/">Ian Baker</a></li>
+<li><a href="https://fab.wra.net/blancof/">Francisco Blanco</a></li>
+<li><a href="https://fab.wra.net/dingk/">Kitty Ding</a></li>
+<li><a href="https://fab.wra.net/dohertym/">Matt Doherty</a></li>
+<li><a href="https://fab.wra.net/downingw/">Will Downing</a></li>
+<li><a href="https://fab.wra.net/fieldss/">Sebastian Fields</a></li>
+<li><a href="https://fab.wra.net/haop/">Pengcheng Hao</a></li>
+ <li><a href="https://fab.wra.net/jordanj/">JoJo Jordan</a></li>
+<li><a href="https://fab.wra.net/kingj/">Julia King</a></li>
+  <li><a href="https://fab.wra.net/mccollumc/">Chris McCollum</a></li>
+<li><a href="https://fab.wra.net/mulvihille/">Eamon Mulvihill</a></li>
+<li><a href="https://fab.wra.net/procopl/">London Procop</a></li>
+<li><a href="https://fab.wra.net/randc/">Chase Rand</a></li>
+  <li><a href="https://fab.wra.net/ryuh/">Hyun Ryu</a></li>
+  <li><a href="https://fab.wra.net/siegenthalere/">Elizabeth Siegenthaler</a></li>  
+<li><a href="https://fab.wra.net/swaseys/">Sarah Swasey</a></li>
+<br>
+</ul>
+</p>
+<br>
+
+<p>
+<hr style="width:80%">
+</p>
+
+<a href="index.html">Back to index</a>
+
+</body>
+</html>
